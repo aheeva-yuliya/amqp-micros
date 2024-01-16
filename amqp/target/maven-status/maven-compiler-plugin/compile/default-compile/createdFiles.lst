@@ -1,0 +1,5 @@
+com/microservices/amqp/model/Message.class
+com/microservices/amqp/controllers/Consumer.class
+com/microservices/amqp/controllers/Producer.class
+com/microservices/amqp/config/RabbitMQConfig.class
+com/microservices/amqp/RabbitMQApplication.class

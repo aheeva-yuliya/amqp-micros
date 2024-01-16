@@ -1,0 +1,8 @@
+/home/user/IdeaProjects/microservices/customer/src/main/java/com/microservices/customer/services/CustomerService.java
+/home/user/IdeaProjects/microservices/customer/src/main/java/com/microservices/customer/CustomerApplication.java
+/home/user/IdeaProjects/microservices/customer/src/main/java/com/microservices/customer/dto/CustomerRegistrationRequestDto.java
+/home/user/IdeaProjects/microservices/customer/src/main/java/com/microservices/customer/controllers/CustomerController.java
+/home/user/IdeaProjects/microservices/customer/src/main/java/com/microservices/customer/repositories/CustomerRepository.java
+/home/user/IdeaProjects/microservices/customer/src/main/java/com/microservices/customer/config/CustomerConfig.java
+/home/user/IdeaProjects/microservices/customer/src/main/java/com/microservices/customer/entities/Customer.java
+/home/user/IdeaProjects/microservices/customer/src/main/java/com/microservices/customer/dto/FraudCheckResponseDto.java

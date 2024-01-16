@@ -1,0 +1,6 @@
+/home/user/IdeaProjects/microservices/fraud/src/main/java/com/microservices/fraud/services/FraudCheckHistoryService.java
+/home/user/IdeaProjects/microservices/fraud/src/main/java/com/microservices/fraud/dto/FraudCheckResponseDto.java
+/home/user/IdeaProjects/microservices/fraud/src/main/java/com/microservices/fraud/FraudApplication.java
+/home/user/IdeaProjects/microservices/fraud/src/main/java/com/microservices/fraud/entities/FraudCheckHistory.java
+/home/user/IdeaProjects/microservices/fraud/src/main/java/com/microservices/fraud/repositories/FraudCheckHistoryRepository.java
+/home/user/IdeaProjects/microservices/fraud/src/main/java/com/microservices/fraud/controllers/FraudCheckHistoryController.java

@@ -1,0 +1,9 @@
+com/microservices/customer/entities/Customer.class
+com/microservices/customer/dto/FraudCheckResponseDto.class
+com/microservices/customer/config/CustomerConfig.class
+com/microservices/customer/entities/Customer$CustomerBuilder.class
+com/microservices/customer/dto/CustomerRegistrationRequestDto.class
+com/microservices/customer/controllers/CustomerController.class
+com/microservices/customer/CustomerApplication.class
+com/microservices/customer/repositories/CustomerRepository.class
+com/microservices/customer/services/CustomerService.class

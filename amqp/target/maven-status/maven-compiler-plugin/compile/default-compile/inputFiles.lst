@@ -1,0 +1,5 @@
+/home/user/IdeaProjects/microservices/amqp/src/main/java/com/microservices/amqp/controllers/Consumer.java
+/home/user/IdeaProjects/microservices/amqp/src/main/java/com/microservices/amqp/config/RabbitMQConfig.java
+/home/user/IdeaProjects/microservices/amqp/src/main/java/com/microservices/amqp/controllers/Producer.java
+/home/user/IdeaProjects/microservices/amqp/src/main/java/com/microservices/amqp/RabbitMQApplication.java
+/home/user/IdeaProjects/microservices/amqp/src/main/java/com/microservices/amqp/model/Message.java
